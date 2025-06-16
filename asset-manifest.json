@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Letscode-Challenge/static/css/main.2d4339ef.css",
-    "main.js": "/Letscode-Challenge/static/js/main.86c91867.js",
+    "main.js": "/Letscode-Challenge/static/js/main.00cfe8a2.js",
     "static/js/977.663136b1.chunk.js": "/Letscode-Challenge/static/js/977.663136b1.chunk.js",
     "static/js/455.b9e7b311.chunk.js": "/Letscode-Challenge/static/js/455.b9e7b311.chunk.js",
     "index.html": "/Letscode-Challenge/index.html",
     "main.2d4339ef.css.map": "/Letscode-Challenge/static/css/main.2d4339ef.css.map",
-    "main.86c91867.js.map": "/Letscode-Challenge/static/js/main.86c91867.js.map",
+    "main.00cfe8a2.js.map": "/Letscode-Challenge/static/js/main.00cfe8a2.js.map",
     "977.663136b1.chunk.js.map": "/Letscode-Challenge/static/js/977.663136b1.chunk.js.map",
     "455.b9e7b311.chunk.js.map": "/Letscode-Challenge/static/js/455.b9e7b311.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d4339ef.css",
-    "static/js/main.86c91867.js"
+    "static/js/main.00cfe8a2.js"
   ]
 }
