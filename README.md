@@ -1,6 +1,6 @@
 # 🌍 City Comparison Dashboard
 
-*Submitted by: [Your Name]*
+*Submitted by: Padhmasnin*
 
 ## 🌟 Live Demo
 
