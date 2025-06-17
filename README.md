@@ -4,20 +4,14 @@
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Demo](https://your-demo-link-here.com)**
-
-## 📸 Screenshots
-
-![Dashboard Overview](./demo-images/dashboard-overview.png)  
-![City Filters and Goals](./demo-images/city-filters-goals.png)  
-![Scatter + Map](./demo-images/scatter-map.png)
+🔗 **[View Live Demo](https://padhmasini29.github.io/Letscode-Challenge/)**
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Recharts, Chart.js
 - **Data Visualization**: Recharts, Leaflet, html2canvas
 - **Export Tools**: react-csv, jspdf
-- **Deployment**: Netlify / Vercel
+- **Deployment**: Gitpages
 - **Styling**: CSS3, Flexbox, Responsive Design
 
 ## ✨ Unique Features
@@ -39,9 +33,6 @@
 ### Installation
 
 ```bash
-# Clone and navigate
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 
 # Install dependencies
 npm install
